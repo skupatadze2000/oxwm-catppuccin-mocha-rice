@@ -47,7 +47,14 @@ Here are the default bindings to get you started:
 - **Color Palette:** Big thanks to the [Catppuccin](https://github.com/catppuccin/catppuccin) team for the amazing Mocha theme.
 - **Inspiration:** This rice was built to solve the lack of consistent theming for `oxwm`.
 
+## 🌟 Recommended Ecosystem
+To get the most out of this rice, I recommend pairing it with:
+- **Shell:** `zsh` with `oh-my-zsh`.
+- **Prompt:** `starship` (it's fast and highly customizable I see).
+
 ## ⚠️ Troubleshooting
 - **Missing Icons?** Ensure you have installed the *Nerd Fonts* package correctly on your system.
 - **Blur not working?** If your background isn't blurring, ensure you are running a compositor like `picom` with `experimental-backends` enabled.
 - **Rofi not opening?** Check if you have `rofi` installed and that the config path matches the one defined in your `oxwm` config file.
+
+make by saba kupatadze or as locals call me "dasisvi", star ts if u like it plz I wanna reach the big leagues, also the picom config can be used to transparent things, but the config only makes all windows have rounded corners
