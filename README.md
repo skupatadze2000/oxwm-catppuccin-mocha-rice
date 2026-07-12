@@ -1,3 +1,7 @@
+![Linux](https://img.shields.io/badge/OS-Linux-blue)
+![WM](https://img.shields.io/badge/WM-oxwm-green)
+![Theme](https://img.shields.io/badge/Theme-Catppuccin-pink)
+
 # oxwm-catppuccin-mocha-rice
 an simple but strong oxwm rice based on catppuccin mocha... it will include dotfiles for oxwm, picom, grub and rofi
 
