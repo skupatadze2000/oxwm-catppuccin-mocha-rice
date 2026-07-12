@@ -46,3 +46,8 @@ Here are the default bindings to get you started:
 ## 🎨 Credits
 - **Color Palette:** Big thanks to the [Catppuccin](https://github.com/catppuccin/catppuccin) team for the amazing Mocha theme.
 - **Inspiration:** This rice was built to solve the lack of consistent theming for `oxwm`.
+
+## ⚠️ Troubleshooting
+- **Missing Icons?** Ensure you have installed the *Nerd Fonts* package correctly on your system.
+- **Blur not working?** If your background isn't blurring, ensure you are running a compositor like `picom` with `experimental-backends` enabled.
+- **Rofi not opening?** Check if you have `rofi` installed and that the config path matches the one defined in your `oxwm` config file.
