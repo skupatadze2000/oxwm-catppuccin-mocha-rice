@@ -25,8 +25,24 @@ I've kept the config clean and easy to edit:
 - **Colors:** If you want to tweak the Catppuccin accents, check the `color` variables inside `oxwm/config.lua` or your `.rasi` file.
 - **Font:** To change the font size, edit the `font` line in `alacritty/alacritty.toml`.
 
+## ⌨️ Keybindings
+
+Here are the default bindings to get you started:
+
+| Action | Keybinding |
+| :--- | :--- |
+| Open Terminal | `Super + T` |
+| Launch Rofi | `Super + D` |
+| Close Window | `Super + Q` |
+| Restart OxWM | `Super + Shift + R` |
+| Take Screenshot | `Print` |
+
 ## Showcase
 
 ![Desktop](screenshots/2026-07-12_20-51.png)
 ![rofi](screenshots/2026-07-12_21-29.png)
 ![alacritty with fastfetch](screenshots/2026-07-12_21-30.png)
+
+## 🎨 Credits
+- **Color Palette:** Big thanks to the [Catppuccin](https://github.com/catppuccin/catppuccin) team for the amazing Mocha theme.
+- **Inspiration:** This rice was built to solve the lack of consistent theming for `oxwm`.
