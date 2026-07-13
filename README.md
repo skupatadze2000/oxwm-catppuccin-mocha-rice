@@ -5,6 +5,8 @@
 # oxwm-catppuccin-mocha-rice
 an simple but strong oxwm rice based on catppuccin mocha... it will include dotfiles for oxwm, picom, grub and rofi
 
+![larp](screenshots/2026-07-13_08-38.png)
+
 ## Showcase
 
 ![Desktop](screenshots/2026-07-12_20-51.png)
