@@ -354,4 +354,4 @@ oxwm.key.chord({
 
 oxwm.autostart("picom --backend xrender")
 oxwm.autostart("feh --bg-scale /home/alpine/Downloads/Downloads")
-oxwm.autostart("dunst")
+-- oxwm.autostart("dunst")
